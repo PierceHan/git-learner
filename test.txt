@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is free software.
+Git is free software zhe dou shi shen me gui gong xi.
