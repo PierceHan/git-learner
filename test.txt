@@ -1,3 +1,5 @@
 Git is a distributed version control system.
 Git is free software zhe dou shi shen me gui gong xi.
 for working directory and repository
+Git tracks changes.
+
